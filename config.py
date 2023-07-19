@@ -1,8 +1,8 @@
 import  os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-APP_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
+BOT_TOKEN = os.environ.get("6324971780:AAG4-mSR0OH7L3_lfKabflLtzDiekV0wGQ4")
+APP_ID = int(os.environ.get("26489380"))
+API_HASH = os.environ.get("4167d8b8779aab33b73810feb3c77021")
 G1N = os.environ.get("GROUP_1_NAME")
 G2N = os.environ.get("GROUP_2_NAME")
 G1L = os.environ.get("GROUP_1_LINK")
